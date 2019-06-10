@@ -6,10 +6,12 @@ title: "My ABZ Plan"
 # My ABZ Plan
 
 ## Plan A
-Huawei
+Huawei 
+Proportion 60%
 
 ## Plan B
 Shylock
+Proportion 30%
 
 ## Plan Z
-Find another job
+Find another job 10%
