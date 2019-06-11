@@ -21,5 +21,11 @@ title: "idea collection"
 
 - habitica:
   - books to read
+  - idea in mind
+  - task todo
+  - habit to form
+  - reward
+  - daily
 - tick tick list
-  -
+  - wechat articles to read
+  - web page to read
