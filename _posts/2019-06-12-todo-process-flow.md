@@ -19,10 +19,3 @@ Here are the types of TODO source & tool for collection：
 3. Idea in mind: Habitica
 4. Work email: outlook task
 
-```mermaid
-graph LR
-A[Hard edge] -->B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-```
