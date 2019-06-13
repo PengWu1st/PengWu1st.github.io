@@ -3,7 +3,7 @@ layout: post
 title: "TODO process flow"
 ---
 
-# TODO a Process Flow
+# TODO Process Flow
 
 1. TODO Collection
 2. TODO Classification
@@ -13,8 +13,16 @@ title: "TODO process flow"
 
 # TODO Collection
 
-Here are the types of TODO source：
-1. Wechat Articles
-2. Webpage
-3. Idea in mind
-4. Work email
+Here are the types of TODO source & tool for collection：
+1. Wechat Articles: tick tick list
+2. Webpage: tick tick list
+3. Idea in mind: Habitica
+4. Work email: outlook task
+
+```mermaid
+graph LR
+A[Hard edge] -->B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+```
