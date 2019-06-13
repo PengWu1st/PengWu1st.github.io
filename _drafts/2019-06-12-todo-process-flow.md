@@ -14,15 +14,10 @@ title: "TODO process flow"
 # TODO Collection
 
 Here are the types of TODO source & tool for collection：
-1. Wechat Articles: tick tick list
-2. Webpage: tick tick list
-3. Idea in mind: Habitica
-4. Work email: outlook task
+- Wechat Articles: tick tick list
+- Webpage: tick tick list
+- Idea in mind: Habitica
+- Work email: outlook task
 
-```mermaid
-graph LR
-A[Hard edge] -->B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-```
+# TODO Classification
+
