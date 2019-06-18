@@ -14,7 +14,7 @@ value priority
         2. Habit:做卷腹
 2. 人际关系
     1. 微信好友分类
-        1. 建立一个
+        1. 重温人脉管理课程
 3. 事业成功
     1. PlanA
     2. PlanB
