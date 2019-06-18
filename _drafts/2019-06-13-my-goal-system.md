@@ -17,6 +17,9 @@ value priority
         1. 重温人脉管理课程
 3. 事业成功
     1. PlanA
+        1. 在华为好好干
+           1. 交接好iCare事务
+           2. 开始在SIR组发挥作用
     2. PlanB
     3. PlanZ
 4. 财务自由
