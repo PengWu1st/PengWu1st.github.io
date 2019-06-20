@@ -1,27 +1,46 @@
 ---
 layout: post
-title: "TODO process flow"
+title: "TODO处理流程"
 ---
 
-# TODO Process Flow
+# TODO处理总体流程
 
-1. TODO Collection
-2. TODO Classification
-3. TODO Prioritization
-4. TODO Execution
-5. TODO Review
+1. TODO收集
+2. TODO分类
+3. TODO排序
+4. TODO执行
+5. TODO回顾
 
 # TODO Collection
 
-Here are the types of TODO source & tool for collection：
-- Wechat Articles: tick tick list 收集箱
-- Webpage: tick tick list
-- Idea in mind: Habitica
-- Work email: outlook task
+有以下这些TODO来源的收集方式如下：
+- 微信文章: 滴答清单收集箱
+- 网页: 滴答清单收集箱
+- 灵感: Habitica
+- 工作邮件: outlook任务
 
 # TODO Classification
 
 ## 滴答清单收集箱：
-1. 如果是微信文章，放入微信文章列表
 
-## 滴答清
+- 如果是微信文章，放入微信文章列表
+- 如果是网页，放入网页列表
+
+
+## 滴答清单微信文章列表
+
+- 建立习惯：处理微信文章
+  - 阅读
+  - 做笔记
+  - 整合入自己的知识体系
+  - 保存到有道云笔记
+  - 完成任务
+
+## 滴答清单网页列表
+
+- 建立习惯：处理网页
+  - 阅读
+  - 做笔记
+  - 整合入自己的知识体系
+  - 保存到有道云笔记
+  - 完成任务
