@@ -10,15 +10,15 @@
 
 ## 可能有用的工具
 
-TOC 思考工具
-ArchiMate
-瀑布模型
-敏捷工作法
-Design Thinking（体验设计）
-AI复杂度与成熟度四象限
-application->data->algorithm
-Ng Machine learning Project Strategy
-UML
+- TOC 思考工具
+- ArchiMate
+- 瀑布模型
+- 敏捷工作法
+- Design Thinking（体验设计）
+- AI复杂度与成熟度四象限
+- application->data->algorithm
+- Ng Machine learning Project Strategy
+- UML
 
 
 ## 阶段划分
