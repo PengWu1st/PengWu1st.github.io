@@ -1,21 +1,80 @@
 ---
 layout: post
-title: "TODO process flow"
+title: "TODO处理流程"
 ---
 
-# TODO Process Flow
+# TODO处理总体流程
 
-1. TODO Collection
-2. TODO Classification
-3. TODO Prioritization
-4. TODO Execution
-5. TODO Review
+1. TODO收集
+2. TODO分类
+3. TODO排序
+4. TODO执行
+5. TODO回顾
 
 # TODO Collection
 
-Here are the types of TODO source & tool for collection：
-1. Wechat Articles: tick tick list
-2. Webpage: tick tick list
-3. Idea in mind: Habitica
-4. Work email: outlook task
+有以下这些TODO来源的收集方式如下：
+- 微信文章: 滴答清单收集箱
+- 网页: 滴答清单收集箱
+- 灵感: Habitica
+- 工作邮件: outlook任务
 
+# TODO Classification
+
+## 滴答清单收集箱：
+
+- 如果是微信文章，放入微信文章列表
+- 如果是网页，放入网页列表
+
+
+## 滴答清单微信文章列表
+
+- 建立习惯：处理微信文章
+  - 阅读
+  - 做笔记
+  - 整合入自己的知识体系
+  - 保存到有道云笔记
+  - 完成任务
+
+## 滴答清单网页列表
+
+- 建立习惯：处理网页
+  - 阅读
+  - 做笔记
+  - 整合入自己的知识体系
+  - 保存到有道云笔记
+  - 完成任务
+  
+## Habitica待办事项清单
+
+- 打标签：
+  - 思考任务是否符合以下至少一个人生目标，否则就应该被删除
+    - 身心健康
+    - 人际关系
+    - 事业成功
+    - 财务自由
+    - 自我进化
+  - 思考任务属于以下哪个类型：
+    - 下一步行动（任务清晰，条件已经成熟）
+    - 等待（指派他人做的事）
+    - 项目（任务不清晰，需要进一步分解）
+    - 将来也许 (条件未成熟的）
+
+- 下一步行动：
+  - 对于过期的任务，进一步拆解出至少一个子任务，然后放入明天
+  - 对于有期限的任务，设定好到期时间和提醒
+  - 对于没有期限的任务，每天选择三件事列入当天任务
+
+- 等待：
+  - 建立每日任务：回顾一遍等待任务，看是否有些任务条件已经成熟
+
+- 项目：
+  - 建立每日任务：每天确保是否每个项目都至少有一个关联的子任务
+ 
+- 将来也许：
+  - 建立每日任务：每天回顾将来也许清单，看是否能删除，或者放入其他清单
+## outlook
+
+
+- 每日任务计划：
+  - 从下一步任务
