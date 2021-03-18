@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T08:47:56.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.4.9" etag="owpM3E1NeD7zIzFctMlk" type="github"><diagram id="q4Tomart_mmk9TvOpFO3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-18T09:52:47.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="OxOOGhcMoO1kUe3lZMUp" version="14.4.9" type="github">
+  <diagram id="q4Tomart_mmk9TvOpFO3" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1GIcI3OOm1bRNejqCdvd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1GIcI3OOm1bRNejqCdvd-3" target="1GIcI3OOm1bRNejqCdvd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GIcI3OOm1bRNejqCdvd-3" value="外部服务" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1GIcI3OOm1bRNejqCdvd-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GIcI3OOm1bRNejqCdvd-5" value="外部服务实例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GIcI3OOm1bRNejqCdvd-6" value="内部服务" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1GIcI3OOm1bRNejqCdvd-9" value="运行时请求处理逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="235" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1GIcI3OOm1bRNejqCdvd-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
