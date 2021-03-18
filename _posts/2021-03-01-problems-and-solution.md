@@ -20,3 +20,16 @@
 1. Python使用的字典类型建议采用Class方式实现类似Java枚举值效果
 2. 请求入参出参抽象为bean对象
 3. 字符串&状态码抽取成有自带含义的常量，实现常量/变量自我解释。
+
+## 异步服务调用册未实现请求和check分离，导致请求处理线程长期轮询check等待结果或超时，严重影响并发能力
+解决方案：
+请求处理与check线程分离，HTTP采用异步回调方式。详细方案见“HTTP异步服务调用方案”
+
+## 请求&结果及使用MySQL或MongoDB存储，check获取结果性能较差
+解决方案：
+采用Redis+MySQL或Redis+MongoDB双写，check结果优先缓存获取，Redis故障降级MySQL或MongoDB详细方案见“运行态请求&结果&状态数据查询方案”
+
+## 故障降级类
+强依赖某一种存储（Redis/MySQL/MongoDB),存储集群故障服务将不可用
+解决方案：
+采用Redis+MySQL或Redis+MongoDB双写，check结果优先缓存获取，Redis故障降级MySQL或MongoDB详细方案见“运行态请求&结果&状态数据查询方案”
